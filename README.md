@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YouTube Title & Description Generator
 
 This repo contains the code for an AI-powered title/description generator.
@@ -11,4 +10,3 @@ This repo contains the code for an AI-powered title/description generator.
 - `requirements.txt` — Python dependencies
 =======
 # yt-title-desc-generator
->>>>>>> 81433cb3fd95732f0bc84975631f73dfac260ea8
